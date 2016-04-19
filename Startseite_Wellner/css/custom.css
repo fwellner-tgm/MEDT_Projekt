@@ -1,0 +1,109 @@
+.doge-background {
+    background-color: #ff9c2a;
+}
+
+.btnFruit {
+    background-image: url(images/Fruechte-Button-Trans.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.btn-active-Fruit:active {
+    background-image: url(images/Fruechte-Button-Trans.png);
+    box-shadow: inset 10em 10em 10em 10em rgba(0, 0, 0, .220);
+}
+
+.bRole {
+    background: url(images/Platzhaler.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.btn-active-Role:active {
+    background-image: url(images/Platzhaler.png);
+    box-shadow: inset 10em 10em 10em 10em rgba(0, 0, 0, .220);
+}
+
+.b1x1 {
+    background: url(images/1x1-Trans.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.btn-active-1x1:active {
+    background-image: url(images/1x1-Trans.png);
+    box-shadow: inset 10em 10em 10em 10em rgba(0, 0, 0, .220);
+}
+
+.b1Plx {
+    background: url(images/1+x-Trans.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.btn-active-1Plx:active {
+    background-image: url(images/1+x-Trans.png);
+    outline: 0;
+    box-shadow: inset 10em 10em 10em 10em rgba(0, 0, 0, .220);
+}
+
+.b5Mi2 {
+    background: url(images/5-2-Trans.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.btn-active-5Mi2:active {
+    background-image: url(images/5-2-Trans.png);
+    box-shadow: inset 10em 10em 10em 10em rgba(0, 0, 0, .220);
+}
+
+.bABC {
+    background: url(images/ABC-Trans.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.btn-active-ABC:active {
+    background-image: url(images/ABC-Trans.png);
+    box-shadow: inset 10em 10em 10em 10em rgba(0, 0, 0, .220);
+}
+
+.bText {
+    background: url(images/Text-Trans.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.btn-active-Text:active {
+    background-image: url(images/Text-Trans.png);
+    box-shadow: inset 10em 10em 10em 10em rgba(0, 0, 0, .220);
+}
+
+.bMess {
+    background-image: url(images/Messaufgabe-Trans.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.btn-active-Mess:active {
+    background-image: url(images/Messaufgabe-Trans.png);
+    box-shadow: inset 10em 10em 10em 10em rgba(0, 0, 0, .220);
+}
+
+.btn-all {
+    border: none;
+    border-radius: 20px;
+    width: 100%;
+    /* 160 px */
+    height: 12.5em;
+    /* 177 px */
+    background-color: transparent;
+    background-size: 95%;
+}
+
+.btn-all:hover,
+.btn-all:focus,
+.btn:active.btn-all {
+    background-color: transparent;
+}
